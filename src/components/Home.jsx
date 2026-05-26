@@ -3,7 +3,7 @@ import {
   FaLinkedin,
   FaEnvelope,
 } from 'react-icons/fa'
-
+import profile from 'src/assets/profile.png'
 function Home() {
   return (
     <section
@@ -125,7 +125,7 @@ function Home() {
 
                 {/* Image */}
                 <img
-                  src="src/assets/profile.png"
+                  src={profile}
                   alt="profile"
                   className="relative z-10
                   w-[225px] h-[225px]
