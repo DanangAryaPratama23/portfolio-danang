@@ -1,5 +1,6 @@
 import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa'
-
+import readhub from '../assets/readhub.png'
+import historia from '../assets/Historia.png'
 const projectsData = [
   {
     title: 'ReadHub',
@@ -7,7 +8,7 @@ const projectsData = [
       'Website ini adalah sistem manajemen peminjaman buku sederhana. Fungsinya mencatat data anggota, koleksi buku, serta transaksi peminjaman dan pengembalian. Pada dashboard dapat dilihat ringkasan yang ada beserta grafiknya. Pada menu buku terdapat detail tentang buku beserta status ketersediaan apakah masih bisa dipinjam atau sedang dipinjam.',
 
     image:
-      'src/assets/readhub.png',
+      'readhub',
 
     tech: ['Laravel', 'Bootstrap', 'MySQL'],
 
@@ -21,7 +22,7 @@ const projectsData = [
       'Aplikasi Android kuis sejarah dengan sistem kategori negara dan periode sejarah. Terdapat juga fitur tambahan berupa notifikasi hari bersejarah',
 
     image:
-      'src/assets/Historia.png',
+      'historia',
 
     tech: ['Kotlin', 'SQLite', 'Android Studio'],
 

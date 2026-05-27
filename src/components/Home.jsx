@@ -3,7 +3,7 @@ import {
   FaLinkedin,
   FaEnvelope,
 } from 'react-icons/fa'
-import profile from 'src/assets/profile.png'
+import profile from '../assets/profile.png'
 function Home() {
   return (
     <section
@@ -68,7 +68,7 @@ function Home() {
 
               {/* LinkedIn */}
               <a
-                href="https://linkedin.com/"
+                href="https://www.linkedin.com/in/danang-arya-pratama-38839a37a"
                 target="_blank"
                 rel="noreferrer"
                 className="w-12 h-12 rounded-xl border border-slate-700
@@ -81,7 +81,7 @@ function Home() {
 
               {/* Email */}
               <a
-                href="mailto:yourmail@gmail.com"
+                href="mailto:danang.pratama.132@gmail.com"
                 className="w-12 h-12 rounded-xl border border-slate-700
                 hover:border-cyan-400 transition duration-300
                 flex items-center justify-center
