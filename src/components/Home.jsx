@@ -52,7 +52,7 @@ Basically my background is IT, but I also  have various interests such as sports
 
               {/* Instagram */}
               <a
-                href="https://instagram.com/"
+                href="https://instagram.com/danang.arya.pratama"
                 target="_blank"
                 rel="noreferrer"
                 className="w-12 h-12 rounded-xl border border-slate-700
