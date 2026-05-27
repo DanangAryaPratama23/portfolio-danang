@@ -7,7 +7,7 @@ const educationData = [
     major: 'Informatika',
 
     description:
-      'Saya mengambil jurusan Informatika di Ubhinus Malang sejak 2023. Di sini saya belajar tentang web developing, mobile developing, desktop developing, data analyst, machine learning, dll. Selain pada pembelajaran akademik, saya juga mengikuti beberapa kegiatan organisasi kampus seperti UKM dan pameran kampus.',
+      'I have been majoring in Informatics at Ubhinus Malang since 2023. I learn about web development, mobile development, desktop developmwnt, data analyst, machine learning, etc. Alongside academic learning, I also take part in several organization activities.',
 
     logo:
       'https://ubhinus.ac.id/wp-content/uploads/2025/03/main-logo.png',
@@ -21,7 +21,7 @@ const educationData = [
     major: 'IPS',
 
     description:
-      'Saya pernah bersekolah di SMAN 1 Pagak dengan jurusan IPS. Di sini saya belajar ekonomi, sejarah, sosiologi, geografi, dan berbagai pelajaran umum.',
+      'I have studied at SMAN 1 Pagak majoring in Social. I studied economics, history, sociology, geography and various general subjects.',
 
     logo:
       'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCI1bdjhBYm7QQcXzLBHxLauCl_wKn1Mx1Iw&s',

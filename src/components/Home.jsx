@@ -38,16 +38,13 @@ function Home() {
 
             {/* Description */}
             <p className="mt-8 text-slate-400 text-base md:text-lg leading-8 max-w-2xl mx-auto lg:mx-0">
-              Saya adalah mahasiswa Informatika semester 6 di
-              Universitas Bhineka Nusantara Malang yang memiliki
-              minat besar dalam pengembangan website modern,
-              UI/UX design, dan problem solving.
+              I am an active 6th-semester Informatics  student at Universitas Bhineka Nusantara Malang. I have strong problem-solving  skills, with the ability to analyze issues 
+systematically and find efficient solutions.  I enjoy learning new things, am highly adaptable, and can work effectively both independently and as part of a team.
             </p>
 
             <p className="mt-5 text-slate-400 text-base md:text-lg leading-8 max-w-2xl mx-auto lg:mx-0">
-              Saya terbiasa membangun aplikasi yang responsif,
-              efisien, dan user friendly menggunakan React,
-              Laravel, dan Tailwind CSS.
+              
+Basically my background is IT, but I also  have various interests such as sports, culinary, history, and digital content
             </p>
 
             {/* Social Media */}

@@ -71,6 +71,17 @@ const skillsData = [
     ],
   },
   {
+    category: 'Game Development',
+
+    skills: [
+      {
+        name: 'Unity',
+        percentage: '85%',
+        width: '85%',
+      },
+    ],
+  },
+  {
     category: 'Database',
 
     skills: [

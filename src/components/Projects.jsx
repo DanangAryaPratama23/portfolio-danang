@@ -5,7 +5,7 @@ const projectsData = [
   {
     title: 'ReadHub',
     description:
-      'Website ini adalah sistem manajemen peminjaman buku sederhana. Fungsinya mencatat data anggota, koleksi buku, serta transaksi peminjaman dan pengembalian. Pada dashboard dapat dilihat ringkasan yang ada beserta grafiknya. Pada menu buku terdapat detail tentang buku beserta status ketersediaan apakah masih bisa dipinjam atau sedang dipinjam.',
+      'This website is a simple book lending management system. Its function is to record member data, book collections, as well as loan and return transactions along with fines for late returns.',
 
     image:
       readhub,
@@ -19,7 +19,7 @@ const projectsData = [
   {
     title: 'historia',
     description:
-      'Aplikasi Android kuis sejarah dengan sistem kategori negara dan periode sejarah. Terdapat juga fitur tambahan berupa notifikasi hari bersejarah',
+      'History quiz Android app with a system of country categories and historical periods. There is also an additional feature in the form of historic day notifications',
 
     image:
       historia,
@@ -34,7 +34,7 @@ const projectsData = [
   {
     title: 'BumiBaik',
     description:
-      'BumiBaik memiliki tujuan mulia untuk membantu individu menghitung jejak karbon mereka melalui aplikasi BumiBaik dengan penjumlahan variabel biaya bensin, biaya gas LPG, dan biaya listrik bulanan individu, terlibat dalam program penanaman pohon, dan dengan sukarela mengadopsi pohon-pohon tersebut untuk menyerap emisi karbon, memastikan keseimbangan antara karbon yang dihasilkan dan diserap (karbon netral). Tidak hanya itu, sebagai perusahaan hijau (green company), BumiBaik berbagi informasi dan berusaha mendidik masyarakat tentang dampak emisi karbon pada lingkungan dan mengangkat kesadaran masyarakat terhadap masalah perubahan iklim yang dapat mengancam keberlangsungan hidup makhluk hidup.',
+      'BumiBaik has the noble goal of helping individuals calculate their carbon footprint through the BumiBaik application by summing up individual variables of petrol costs, LPG gas costs, and monthly electricity costs, engaging in tree planting programs, and voluntarily adopting these trees to absorb carbon emissions, ensuring a balance between carbon produced and absorbed (carbon neutral). Not only that, as a green company, BumiBaik shares information and tries to educate the public about the impact of carbon emissions on the environment and raises public awareness of the problem of climate change which can threaten the survival of living things.',
 
     image:
       'https://bumibaik.com/landing/images/home/bumibaik.jpg',

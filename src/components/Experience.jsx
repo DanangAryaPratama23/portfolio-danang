@@ -7,7 +7,7 @@ const experienceData = [
     position: 'Pengajar',
 
     description:
-      'Mengajar Pemrograman dan desain UI/UX di SMA PJ Global School',
+      'Teaching Programming and UI/UX design at SMA PJ Global School',
 
     logo:
       'https://tagame.id/logos/logo-dark.png',
@@ -20,7 +20,7 @@ const experienceData = [
     position: 'Backend Developer Intern',
 
     description:
-      'Saat ini saya menjadi intern di Pusat Bisnis Ubhinus sebagai back end developer dan mengerjakan project dari beberapa klien.',
+      'Currently I am an intern at the Ubhinus Business Center as a back end developer and working on a ticket management website.',
 
     logo:
       'https://ubhinus.ac.id/wp-content/uploads/2025/03/main-logo.png',
@@ -34,7 +34,7 @@ const experienceData = [
     position: 'Backend Developer Intern',
 
     description:
-      'Saya bersama tim mengerjakan rebuild aplikasi dan website BumiBaik, sebuah platform penghitung jejak karbon dan penanaman pohon. Untuk jobdesk saya sendiri adalah membuat database dan API. Framework yang saya gunakan sendiri adalah Laravel 12 dan database PostgreSQL. Selain jobdesk utama tersebut, saya juga bebrapa kali ikut serta dengan tim kreatif untuk membuat konten perusahaan.',
+      'My team and I worked on rebuilding the BumiBaik application and website, a carbon footprint calculation and tree planting platform. For my job desk, I created a database and API. The framework that I use myself is Laravel 12 and a PostgreSQL database. Apart from the main job desk, I also participated several times with the creative team to create company content.',
 
     logo:
       'https://bingkaikarya.com/wp-content/uploads/2022/07/Bingkai-Karya-Logo-1-1-1024x1024.png',
