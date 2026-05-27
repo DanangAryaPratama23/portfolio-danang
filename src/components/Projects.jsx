@@ -17,12 +17,12 @@ const projectsData = [
   },
 
   {
-    title: historia,
+    title: 'historia',
     description:
       'Aplikasi Android kuis sejarah dengan sistem kategori negara dan periode sejarah. Terdapat juga fitur tambahan berupa notifikasi hari bersejarah',
 
     image:
-      'historia',
+      historia,
 
     tech: ['Kotlin', 'SQLite', 'Android Studio'],
 
