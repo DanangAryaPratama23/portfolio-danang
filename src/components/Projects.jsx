@@ -8,7 +8,7 @@ const projectsData = [
       'Website ini adalah sistem manajemen peminjaman buku sederhana. Fungsinya mencatat data anggota, koleksi buku, serta transaksi peminjaman dan pengembalian. Pada dashboard dapat dilihat ringkasan yang ada beserta grafiknya. Pada menu buku terdapat detail tentang buku beserta status ketersediaan apakah masih bisa dipinjam atau sedang dipinjam.',
 
     image:
-      'readhub',
+      readhub,
 
     tech: ['Laravel', 'Bootstrap', 'MySQL'],
 
@@ -17,7 +17,7 @@ const projectsData = [
   },
 
   {
-    title: 'Historia',
+    title: historia,
     description:
       'Aplikasi Android kuis sejarah dengan sistem kategori negara dan periode sejarah. Terdapat juga fitur tambahan berupa notifikasi hari bersejarah',
 
