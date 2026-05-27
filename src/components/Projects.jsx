@@ -1,5 +1,5 @@
 import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa'
-import readhub from '../assets/readhub.png'
+import readhub from '../assets/Readhub.png'
 import historia from '../assets/Historia.png'
 const projectsData = [
   {
